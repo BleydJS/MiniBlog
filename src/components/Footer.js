@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className={styles.footer}>
       <h3>Escreva sobre o que você tem interesse!</h3>
-      <p>Riot Blog &copy; 2023</p>
+      <p>Bleyd Blog &copy; 2023</p>
       <p style={{color: "red", fontWeight: "bold"}}>Responsividade para aparelhos móveis em andamento...</p>
     </footer>
   )

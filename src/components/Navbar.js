@@ -10,11 +10,11 @@ import styles from "./Navbar.module.css"
 const Navbar = () => {
     const { user } = useAuthValue()
     const { logout } = useAuthentication ()
-
+    https://mini-blog-lemon.vercel.app/
   return (
     <nav className={styles.navbar}>
         <NavLink to="/" className={styles.brand}>
-            Riot <span>Blog</span>
+            Bleyd <span>Blog</span>
         </NavLink>
         <ul className={styles.links_list}>
             <li>
