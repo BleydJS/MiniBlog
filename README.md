@@ -1,3 +1,5 @@
+link do projeto: https://bleydblog.vercel.app/
+
 <p>Ainda em desenvolvimento, breve terá atualizações e responsividade para aparelhos moveis.</p>
 
 # Getting Started with Create React App
